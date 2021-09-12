@@ -43,161 +43,21 @@
     {
       "id": 3,
       "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-3 HOPPY MEXICAN LAGER",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-3_hhog4r.png",
-      "composition": "вода, ячмінний солод, хміль, цедра свіжого лайма, кукурудзяні пластівці, дріжджі.",
-      "description": " Надзвичайно освіжне пиво. Тіло сухе та цитрусове. Ідеально втамовує спрагу в спеку. Дуже легке для сприйняття. В ароматі домінує лайм.",
+      "name": "2085-22 Wallonia Wit",
+      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-2_dltbb9.png",
+      "composition": "Вода, ячмінний солод, пшеничний солод, хміль, вівсяні пластівці, хміль, цедра апельсина, цедра лимона, імбир, чорний перець, дріжджі.",
+      "description": " Інтерпретація традиційного Бельгійського вітбіру з регіону Валлонія. Легке та освіжне тіло. Пінна шапка білого кольору та пиво кольору соломи. Смак цитрусово-пряний. Спеції ідеально гармонують з насиченим ароматним букетом цитрусів та дріжджів.",
       "price": 52,
       "locale": "ua"
     },
     {
       "id": 3,
       "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-3 HOPPY MEXICAN LAGER",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-3_hhog4r.png",
-      "composition": "water, barley malt, hops, fresh lime zest, cornflakes, yeast.",
-      "description": "Extremely refreshing beer. The body is dry and citrus. Perfectly quenches thirst in the heat. Very easy to perceive. The aroma is dominated by lime.",
+      "name": "2085-22 Wallonia Wit",
+      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-2_dltbb9.png",
+      "composition": "Water, barley malt, wheat malt, hops, oatmeal, hops, orange peel, lemon peel, ginger, black pepper, yeast.",
+      "description": "Interpretation of the traditional Belgian vitbir from the Walloon region. Light and refreshing body. White foam cap and straw-colored beer. The taste is citrus-spicy. Spices harmonize perfectly with a rich fragrant bouquet of citrus and yeast.",
       "price": 52,
-      "locale": "en"
-    },
-    {
-      "id": 4,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-4 KVEIK IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-4_gogyb8.png",
-      "composition": "вода, ячмінний солод, пшеничний солод, вівсяні пластівці, пшеничні пластівці, хміль, дріжджі.",
-      "description": "Пиво з дріжджовим характером, який гармонійно поєднує хмелевий аромат тропічних фруктів, цитрусових та ківі. Тіло сухе, насичене протеїнами пластівців з різних злаків, які створюють повнотілий ефект м'якості. Колір солом'яний. Шапка біла та дрібнозерниста.",
-      "price": 69,
-      "locale": "ua"
-    },
-    {
-      "id": 4,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-4 KVEIK IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-4_gogyb8.png",
-      "composition": "water, barley malt, wheat malt, oatmeal, wheat flakes, hops, yeast.",
-      "description": "Beer with a yeasty character, which harmoniously combines the hop aroma of tropical fruits, citrus and kiwi. The body is dry, rich in cereal proteins from various cereals, which create a full-fledged softness effect. The color is straw. The cap is white and fine-grained.",
-      "price": 69,
-      "locale": "en"
-    },
-    {
-      "id": 5,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-5 FAKE BRETT IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-5_anpovs.png",
-      "composition": "вода, ячмінний солод, пшеничний солод, вівсяні пластівці, хміль, дріжджі.",
-      "description": "Інтерпретація Індійського блідого елю в стилістиці «Нової школи». Соковите та освіжне тіло нагадує смак крекеру та бісквіту. Колір соломи з білою дрібнозернистою пінною шапкою. Цитрусові та хвойні нотки у посмаку. Аромат ананасу, папаї, маракуї, манго та цитрусових.",
-      "price": 69,
-      "locale": "ua"
-    },
-    {
-      "id": 5,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-5 FAKE BRETT IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-5_anpovs.png",
-      "composition": "water, barley malt, wheat malt, oatmeal, hops, yeast.",
-      "description": "Interpretation of Indian pale ale in the style of the \"New School\". The juicy and refreshing body resembles the taste of crackers and biscuits. The color of straw with a white fine-grained foam cap. Citrus and pine notes in the taste. Aroma of pineapple, papaya, passion fruit, mango and citrus.",
-      "price": 69,
-      "locale": "en"
-    },
-    {
-      "id": 6,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-6 IRISH-STYLE DRY STOUT",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-6_qosody.png",
-      "composition": "вода, ячмінний солод, смажений ячмінь, хміль, дріжджі",
-      "description": "Класика ірландського пивоваріння. В нашій інтерпретації цього стилю ми зімітували як мінеральний склад води, так і солодову складову засипу в поєднанні з благородним британським хмелем.",
-      "price": 52,
-      "locale": "ua"
-    },
-    {
-      "id": 6,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-6 IRISH-STYLE DRY STOUT",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363050/beers/2085-6_qosody.png",
-      "composition": "water, barley malt, roasted barley, hops, yeast",
-      "description": "Classics of Irish brewing. In our interpretation of this style, we simulated both the mineral composition of water and the malt component of the backfill in combination with noble British hops.",
-      "price": 52,
-      "locale": "en"
-    },
-    {
-      "id": 7,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-9 2Х IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-9_eeyy90.png",
-      "composition": "вода, ячмінний солод, пшеничний солод, вівсяні пластівці, хміль, дріжджі.",
-      "description": "Ми зробили IPA знову гірким. Тіло збагачене протеїнами з міксу пластівців. У смаку відчутні тропічні фрукти та цитрусові. Колір солом’яний. Аромат стиглого персика та ананасу. Хмелева гіркота збалансована, разом з тим, виразна. Піна біла та дрібнозерниста.",
-      "price": 79,
-      "locale": "ua"
-    },
-    {
-      "id": 7,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-9 2Х IPA",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-9_eeyy90.png",
-      "composition": "water, barley malt, wheat malt, oatmeal, hops, yeast.",
-      "description": "We made IPA bitter again. The body is enriched with proteins from a mix of cereals. The taste is tropical fruits and citrus. Straw color. Aroma of ripe peach and pineapple. Hop bitterness is balanced, however, expressive. The foam is white and fine-grained.",
-      "price": 79,
-      "locale": "en"
-    },
-    {
-      "id": 8,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-12 IMPERIAL STOUT",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363049/beers/2085-12_zaslwa.png",
-      "composition": "вода, ячмінний солод, смажений ячмінь, хміль, дріжджі.",
-      "description": "Класика імперіального стауту. Густий та насичений з досить високим вмістом алкоголю, який ми вдало приховали. Насичений чорний колір та кремова піна. В ароматі домінує кава, чорний шоколад, бісквіт, амаретто та кокос. Смак фактично повторює аромат та зігріває на виході.",
-      "price": 99,
-      "locale": "ua"
-    },
-    {
-      "id": 8,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-12 IMPERIAL STOUT",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363049/beers/2085-12_zaslwa.png",
-      "composition": "water, barley malt, roasted barley, hops, yeast.",
-      "description": "Classics of imperial statute. Thick and rich with a fairly high alcohol content, which we successfully hid. Saturated black color and cream foam. The aroma is dominated by coffee, dark chocolate, sponge cake, amaretto and coconut. The taste actually repeats the aroma and warms the output.",
-      "price": 99,
-      "locale": "en"
-    },
-    {
-      "id": 9,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-3.1 LIME SOUR MEXICAN LAGER",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363049/beers/2085-3.1_zrtffu.png",
-      "composition": "вода, ячмінний солод, хміль, цедра та сік свіжого лайма, кукурудзяні пластівці, дріжджі.",
-      "description": "Літня варіація Мексиканського лагеру, в яку окрім цедри лайму ми додали свіжий сік лайму для більш яскравої та освіжаючої кислинки.",
-      "price": 56,
-      "locale": "ua"
-    },
-    {
-      "id": 9,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-3.1 LIME SOUR MEXICAN LAGER",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363049/beers/2085-3.1_zrtffu.png",
-      "composition": "water, barley malt, hops, peel and juice of fresh lime, cornflakes, yeast.",
-      "description": "Summer variation of the Mexican camp, in which, in addition to lime peel, we added fresh lime juice for a brighter and refreshing acidity.",
-      "price": 56,
-      "locale": "en"
-    },
-    {
-      "id": 10,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-36 Samerti Lager",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-36_sqmcxl.png",
-      "composition": "Вода, солод, гречані пластівці, гречаний чай, гречаний мед, свіжий сік лимона, хміль, дріжджі.",
-      "description": "Сухе та збалансоване тіло, світло-соломяний колір та надзвичайна питкість, це тільки одна з його характеристик. В цьому пиві використані всеможливі  варіації улюбленої в Україні гречки: гречані пластівці, необроблений гречаний мед та  гречаний чай, що надали нашому лагеру особливого сприйняття. Мотив прохолодного літнього чаю з нотками меду та цитрусових створюють відчуття свіжості та прохолоди. Легка лимонна кислинка на фоні сухого тіла підкреслена гречаним медом – це наше спільне бачення літнього освіжаючого та прохолодного чаю. Пиво було створено в колаборації з талановитою командою ЖЗЛ. І саме через цей зв’язок пиво має 36-й номер, прям як номер будинку, в якому і знаходиться ЖЗЛ.",
-      "price": 59,
-      "locale": "ua"
-    },
-    {
-      "id": 10,
-      "ISU": "ABV 5.3 IBU 11",
-      "name": "2085-36 Samerti Lager",
-      "image": "https://res.cloudinary.com/dpzx4xaru/image/upload/v1631363048/beers/2085-36_sqmcxl.png",
-      "composition": "Water, malt, buckwheat flakes, buckwheat tea, buckwheat honey, fresh lemon juice, hops, yeast.",
-      "description": "Dry and balanced body, light straw color and exceptional drinkability, these are just one of its characteristics. This beer uses all sorts of variations of the favorite buckwheat in Ukraine: buckwheat flakes, raw buckwheat honey and buckwheat tea, which gave our camp a special perception. The motif of cool summer tea with hints of honey and citrus creates a feeling of freshness and coolness. Light citric acid on a background of dry body accentuated by buckwheat honey - this is our common vision of summer refreshing and cool tea. The beer was created in collaboration with a talented team of ZHZL. And it is because of this connection that beer has the 36th number, just like the house number in which the ZHZL is located.",
-      "price": 59,
       "locale": "en"
     }
   ],
